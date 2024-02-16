@@ -28,7 +28,12 @@ const getNextVersion = (currentVersion: Version, versionBump?: VersionBump) => {
 
 export const buildList = async (listName: string, versionBump?: VersionBump): Promise<TokenList> => {
   const { name, keywords, logoURI, sort } = LISTS[listName as keyof typeof LISTS];
-  const { version: currentVersion } = await Bun.file(`lists/${listName}.json`).json();
+  let currentVersion: Version = {major: 0, minor:0, patch:0}
+  try {
+    const { version } = await Bun.file(`lists/${listName}.json`).json();
+    currentVersion = version
+  } catch {
+  }
   const version = getNextVersion(currentVersion, versionBump);
   const list = await Bun.file(`src/tokens/${listName}.json`).json();
   return {

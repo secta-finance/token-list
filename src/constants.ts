@@ -132,4 +132,10 @@ export const LISTS = {
     logoURI: "https://pancakeswap.finance/logo.png",
     sort: false,
   },
+  "secta-linea-default": {
+    name: "Secta Linea Default",
+    keywords: ["secta", "default", "linea"],
+    logoURI: "https://secta.finance/logo.png",
+    sort: false,
+  },
 } as const;
