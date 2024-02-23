@@ -54,5 +54,13 @@
     "chainId": 59144,
     "decimals": 18,
     "logoURI": "https://tokens.secta.finance/images/linea/0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F.png"
+  },
+  {
+    "name": "LUBE",
+    "symbol": "LUBE",
+    "address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://tokens.secta.finance/images/linea/0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf.png"
   }
 ]

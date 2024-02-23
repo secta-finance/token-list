@@ -5,7 +5,7 @@
     "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
     "chainId": 204,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/opbnb/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.png"
+    "logoURI": "https://tokens.secta.finance/images/opbnb/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.png"
   },
   {
     "name": "Ethereum Token",
@@ -13,7 +13,7 @@
     "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
     "chainId": 204,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/opbnb/0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.png"
+    "logoURI": "https://tokens.secta.finance/images/opbnb/0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.png"
   },
   {
     "name": "Wrapped BNB",
@@ -21,7 +21,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 204,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/opbnb/0x4200000000000000000000000000000000000006.png"
+    "logoURI": "https://tokens.secta.finance/images/opbnb/0x4200000000000000000000000000000000000006.png"
   },
   {
     "name": "Tether USD",
@@ -29,7 +29,7 @@
     "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
     "chainId": 204,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdt.png"
+    "logoURI": "https://tokens.secta.finance/images/symbol/usdt.png"
   },
   {
     "name": "PancakeSwap Token",
@@ -37,7 +37,7 @@
     "address": "0x2779106e4F4A8A28d77A24c18283651a2AE22D1C",
     "chainId": 204,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/cake.png"
+    "logoURI": "https://tokens.secta.finance/images/symbol/cake.png"
   },
   {
     "name": "ApolloX LP",
@@ -45,7 +45,7 @@
     "address": "0xC8424F526553ac394E9020DB0a878fAbe82b698C",
     "chainId": 204,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/opbnb/0xC8424F526553ac394E9020DB0a878fAbe82b698C.png"
+    "logoURI": "https://tokens.secta.finance/images/opbnb/0xC8424F526553ac394E9020DB0a878fAbe82b698C.png"
   },
   {
     "name": "First Digital USD",
@@ -53,6 +53,6 @@
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
     "chainId": 204,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/opbnb/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
+    "logoURI": "https://tokens.secta.finance/images/opbnb/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
   }
 ]

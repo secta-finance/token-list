@@ -4,7 +4,7 @@ import { request, gql } from "graphql-request";
 import { getAddress } from "@ethersproject/address";
 import slugify from "slugify";
 
-const pathToImages = path.join(path.resolve(), "lists", "images")
+const pathToImages = path.join(path.resolve(), "lists", "images");
 const logoFiles = fs.readdirSync(pathToImages);
 
 // Interface for Bitquery GraphQL response.
@@ -110,7 +110,7 @@ const getTokens = async (): Promise<BitqueryEntity[]> => {
 const getTokenLogo = (address: string): string => {
   // Note: fs.existsSync can't be used here because its not case sensetive
   if (logoFiles.includes(`${address}.png`)) {
-    return `https://tokens.pancakeswap.finance/images/${address}.png`;
+    return `https://tokens.secta.finance/images/${address}.png`;
   }
 
   return `https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/${address}/logo.png`;

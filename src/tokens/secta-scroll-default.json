@@ -5,7 +5,7 @@
     "address": "0x5300000000000000000000000000000000000004",
     "chainId": 534352,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+    "logoURI": "https://tokens.secta.finance/images/symbol/weth.png"
   },
   {
     "name": "Wrapped BTC",
@@ -13,7 +13,7 @@
     "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
     "chainId": 534352,
     "decimals": 8,
-    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/wbtc.png"
+    "logoURI": "https://tokens.secta.finance/images/symbol/wbtc.png"
   },
   {
     "name": "Tether USD",
@@ -21,7 +21,7 @@
     "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
     "chainId": 534352,
     "decimals": 6,
-    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdt.png"
+    "logoURI": "https://tokens.secta.finance/images/symbol/usdt.png"
   },
   {
     "name": "USD Coin",
@@ -29,6 +29,6 @@
     "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
     "chainId": 534352,
     "decimals": 6,
-    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdc.png"
+    "logoURI": "https://tokens.secta.finance/images/symbol/usdc.png"
   }
 ]

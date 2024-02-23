@@ -100,7 +100,7 @@ const toBeValidLogo = async (token) => {
   let hasLocalLogo = false;
   const refersToLocalLogo =
     token.logoURI ===
-    `https://tokens.pancakeswap.finance/images${multiChainLogoPath?.[token.chainId] || ""}/${token.address}.png`;
+    `https://tokens.secta.finance/images${multiChainLogoPath?.[token.chainId] || ""}/${token.address}.png`;
   if (refersToLocalLogo) {
     const fileName = token.logoURI.split("/").pop();
     // Note: fs.existsSync can't be used here because its not case sensetive
@@ -108,7 +108,7 @@ const toBeValidLogo = async (token) => {
     // hasLocalLogo = multiChainLogoFiles[token.chainId]?.map((f) => f.name).includes(fileName);
   }
 
-  if (token.logoURI === `https://tokens.pancakeswap.finance/images/symbol/${token.symbol.toLowerCase()}.png`) {
+  if (token.logoURI === `https://tokens.secta.finance/images/symbol/${token.symbol.toLowerCase()}.png`) {
     return {
       message: () => ``,
       pass: true,
@@ -224,6 +224,7 @@ describe.each(cases)("buildList %s", async (listName, opt: any) => {
     if (!opt || !opt.skipLogo) {
       for (const token of defaultTokenList.tokens) {
         const got = await toBeValidLogo(token);
+        console.log(token);
         expect(got.pass).toBe(true);
       }
     } else {

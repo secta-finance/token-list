@@ -4,7 +4,6 @@ import ciCheck from "./src/ci-check.js";
 import topTokens from "./src/top-100.js";
 import fetchThirdPartyList from "./src/fetchThirdPartyList.js";
 import { LISTS } from "./src/constants.js";
-import { exec } from "child_process";
 import { buildIndex } from "./src/buildIndex.js";
 
 const command = process.argv[2];
