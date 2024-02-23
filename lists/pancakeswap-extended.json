@@ -1,10 +1,10 @@
 {
   "name": "PancakeSwap Extended",
-  "timestamp": "2024-02-13T12:59:32.436Z",
+  "timestamp": "2024-02-21T14:36:16.140Z",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 199
+    "patch": 203
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -805,6 +805,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x16faF9DAa401AA42506AF503Aa3d80B871c467A3.png"
     },
     {
+      "name": "DeFi",
+      "symbol": "DEFI",
+      "address": "0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1.png"
+    },
+    {
       "name": "Dego.Finance",
       "symbol": "DEGO",
       "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
@@ -1229,14 +1237,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4.png"
     },
     {
-      "name": "Hay Destablecoin",
-      "symbol": "HAY",
-      "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5.png"
-    },
-    {
       "name": "Helmet.insure",
       "symbol": "Helmet",
       "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
@@ -1539,6 +1539,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+    },
+    {
+      "name": "Lista USD",
+      "symbol": "lisUSD",
+      "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5.png"
     },
     {
       "name": "Litentry",
@@ -1875,6 +1883,14 @@
       "chainId": 56,
       "decimals": 6,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa.png"
+    },
+    {
+      "name": "NetMind Token",
+      "symbol": "NMT",
+      "address": "0x03AA6298F1370642642415EDC0db8b957783e8D6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x03AA6298F1370642642415EDC0db8b957783e8D6.png"
     },
     {
       "name": "Nerve Finance",
@@ -2429,8 +2445,8 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab.png"
     },
     {
-      "name": "Synclub Staked BNB",
-      "symbol": "SnBNB",
+      "name": "Staked Lista BNB",
+      "symbol": "slisBNB",
       "address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
       "chainId": 56,
       "decimals": 18,
@@ -3003,6 +3019,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7859B01BbF675d67Da8cD128a50D155cd881B576.png"
+    },
+    {
+      "name": "XRGB",
+      "symbol": "XRGB",
+      "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a.png"
     },
     {
       "name": "XRP Token",

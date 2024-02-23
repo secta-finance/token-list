@@ -2448,8 +2448,8 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1.png"
   },
   {
-    "name": "Hay Destablecoin",
-    "symbol": "HAY",
+    "name": "Lista USD",
+    "symbol": "lisUSD",
     "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
     "chainId": 56,
     "decimals": 18,
@@ -2776,8 +2776,8 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1eE098cBaF1f846d5Df1993f7e2d10AFb35A878d.png"
   },
   {
-    "name": "Synclub Staked BNB",
-    "symbol": "SnBNB",
+    "name": "Staked Lista BNB",
+    "symbol": "slisBNB",
     "address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
     "chainId": 56,
     "decimals": 18,
@@ -3086,5 +3086,29 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF.png"
+  },
+  {
+    "name": "DeFi",
+    "symbol": "DEFI",
+    "address": "0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1.png"
+  },
+  {
+    "name": "NetMind Token",
+    "symbol": "NMT",
+    "address": "0x03AA6298F1370642642415EDC0db8b957783e8D6",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x03AA6298F1370642642415EDC0db8b957783e8D6.png"
+  },
+  {
+    "name": "XRGB",
+    "symbol": "XRGB",
+    "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a.png"
   }
 ]
