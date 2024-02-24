@@ -1,10 +1,10 @@
 {
   "name": "Secta Finance Linea Default",
-  "timestamp": "2024-02-23T05:27:16.134Z",
+  "timestamp": "2024-02-24T12:12:02.926Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "logoURI": "https://secta.finance/logo.png",
   "keywords": [
@@ -76,6 +76,30 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://tokens.secta.finance/images/linea/0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf.png"
+    },
+    {
+      "name": "Yellow Duckies",
+      "symbol": "DUCKIES",
+      "address": "0x796000FAd0d00B003B9dd8e531BA90cff39E01E0",
+      "chainId": 59144,
+      "decimals": 8,
+      "logoURI": "https://tokens.secta.finance/images/linea/0x796000FAd0d00B003B9dd8e531BA90cff39E01E0.png"
+    },
+    {
+      "name": "StargateToken",
+      "symbol": "STG",
+      "address": "0x808d7c71ad2ba3FA531b068a2417C63106BC0949",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://tokens.secta.finance/images/linea/0x808d7c71ad2ba3FA531b068a2417C63106BC0949.png"
+    },
+    {
+      "name": "Mendi Finance",
+      "symbol": "MENDI",
+      "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://tokens.secta.finance/images/linea/0x43E8809ea748EFf3204ee01F08872F063e44065f.png"
     }
   ]
 }
