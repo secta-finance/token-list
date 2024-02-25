@@ -1,10 +1,10 @@
 {
   "name": "Secta Finance Linea Default",
-  "timestamp": "2024-02-24T12:12:02.926Z",
+  "timestamp": "2024-02-24T15:10:12.447Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 6
   },
   "logoURI": "https://secta.finance/logo.png",
   "keywords": [
@@ -52,14 +52,6 @@
       "chainId": 59144,
       "decimals": 8,
       "logoURI": "https://tokens.secta.finance/images/symbol/wbtc.png"
-    },
-    {
-      "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "chainId": 59144,
-      "decimals": 6,
-      "logoURI": "https://tokens.secta.finance/images/linea/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png"
     },
     {
       "name": "Wrapped liquid staked Ether 2.0",
