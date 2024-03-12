@@ -78,5 +78,13 @@
     "chainId": 59144,
     "decimals": 18,
     "logoURI": "https://tokens.secta.finance/images/linea/0x43E8809ea748EFf3204ee01F08872F063e44065f.png"
+  },
+  {
+    "name": "Lineardo",
+    "symbol": "LINE",
+    "address": "0x2Fab0952449378DfdF4625fE37F9603011F189ab",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://tokens.secta.finance/images/linea/0x2Fab0952449378DfdF4625fE37F9603011F189ab.png"
   }
 ]
