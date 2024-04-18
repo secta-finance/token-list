@@ -86,5 +86,21 @@
     "chainId": 59144,
     "decimals": 18,
     "logoURI": "https://tokens.secta.finance/images/linea/0x2Fab0952449378DfdF4625fE37F9603011F189ab.png"
+  },
+  {
+    "name": "Kayen",
+    "symbol": "KAYEN",
+    "address": "0xb195E26c23aa1AdF66Db73417DEfA32A45F38Ce7",
+    "chainId": 59144,
+    "decimals": 6,
+    "logoURI": "https://tokens.secta.finance/images/linea/0xb195E26c23aa1AdF66Db73417DEfA32A45F38Ce7.png"
+  },
+  {
+    "name": "Discoin",
+    "symbol": "DISCO",
+    "address": "0xC9B1A0d6cec7F31a8548295D134a0468f636B85D",
+    "chainId": 59144,
+    "decimals": 4,
+    "logoURI": "https://tokens.secta.finance/images/linea/0xC9B1A0d6cec7F31a8548295D134a0468f636B85D.png"
   }
 ]
