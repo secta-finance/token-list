@@ -1,10 +1,10 @@
 {
   "name": "Secta Finance Linea Default",
-  "timestamp": "2024-03-12T14:44:53.573Z",
+  "timestamp": "2024-06-05T10:02:28.316Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "logoURI": "https://secta.finance/logo.png",
   "keywords": [
@@ -100,6 +100,14 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://tokens.secta.finance/images/linea/0x2Fab0952449378DfdF4625fE37F9603011F189ab.png"
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://tokens.secta.finance/images/linea/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
     }
   ]
 }

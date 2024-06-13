@@ -86,5 +86,13 @@
     "chainId": 59144,
     "decimals": 18,
     "logoURI": "https://tokens.secta.finance/images/linea/0x2Fab0952449378DfdF4625fE37F9603011F189ab.png"
+  },
+  {
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://tokens.secta.finance/images/linea/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
   }
 ]
